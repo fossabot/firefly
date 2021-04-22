@@ -7,33 +7,33 @@
         "legal": {
             "title": "Privacy Policy & Terms of Service",
             "body": "Моля прегледайте Политика за поверителност и Общи условия за ползване.",
-            "checkbox": "I've read and I accept the Privacy Policy & Terms of Service"
+            "checkbox": "Прочетох и приемам Privacy Policy & Terms of Service"
         },
         "appearance": {
             "title": "Изглед",
-            "body": "Choose your app theme."
+            "body": "Изберете тема за облик."
         },
         "profile": {
             "title": "Създаване на профил",
-            "body1": "You can create multiple user profiles to organise your wallets and improve privacy.",
+            "body1": "Можете да имате няколко профила, за да организирате портфейлите си и подобрите поверителността.",
             "body2": "Нека да започнем с Вашият първи профил. Можете да добавяте още профили по-късно.",
             "profileName": "Име на профил"
         },
         "setup": {
             "title": "Създаване на портфейл",
             "chrysalisTitle": "Chrysalis Network Update",
-            "chrysalisBody": "From April 21st, users can migrate their tokens to the new Chrysalis network. We recommend you migrate your existing tokens as soon as possible.",
+            "chrysalisBody": "От 21-ви април, потребителите могат да мигрират своите средста в новата Chrysalis мрежа. Ние препоръчване да мигрирате средствата си възможно най-скоро.",
             "learnMore": "Научете повече за миграцията"
         },
         "secure": {
             "title": "Защитете портфейла си",
-            "body1": "Save and print the Recovery Kit PDF template.",
-            "body2": "If you fill out the Recovery Kit and store it safely, you will always be able to recover your wallets."
+            "body1": "Запази и принтирай форма за Recovery Kit.",
+            "body2": "Ако попълните Recovery Kit и го пазите на сигурно място, ще можете винаги да възстановите портфейла си."
         },
         "password": {
             "title": "Създаване на парола",
             "body1": "Нуждаете се от сигурна парола, за да защитите портфейла си. Използвайте комбинация от думи. Избягвайте често срещани фрази, имена и дати.",
-            "body2": "It is recommended that you write down your password in your Recovery Kit."
+            "body2": "Препоръчваме да запишете паролата си в Recovery Kit."
         },
         "protect": {
             "title": "Protect your wallet",
@@ -52,15 +52,15 @@
         },
         "backup": {
             "title": "Бекъп на портфейл",
-            "body1": "You will now be shown a recovery phrase. Write it down in your Recovery Kit.",
+            "body1": "Ще бъде показана фраза за възстановяване. Напишете я в Recovery Kit.",
             "body2": "Не споделяйте Вашата фраза за възстановяване с никого. Може да бъде използвана за достъп до вашите средства от всякъде.",
             "body3": "Ако загубите фразата си за възстановяване, може да загубите средствата си."
         },
         "recoveryPhrase": {
             "title": "Фраза за възстановяване",
-            "body1": "In your Recovery Kit, write down the words in the exact order shown.",
+            "body1": "В Recovery Kit въведете думите със следната подредба.",
             "body2": "Пазете това в тайна и на сигурно място.",
-            "body3": "It is important to have a written backup. Computers often fail and files can corrupt.",
+            "body3": "Важно е да имате записано резервно копие. Компютрите понякога отказват и файловете се повреждат.",
             "revealRecoveryPhrase": "Разкриване на фраза за възстановяване",
             "hideRecoveryPhrase": "Скриване на фраза за възстановяване"
         },
@@ -86,16 +86,16 @@
         "congratulations": {
             "title": "Настройка на портфейла завършена",
             "body": "Вашият нов портфейл е готов за използване.",
-            "fundsMigrated": "Funds migrated",
-            "success": "You have successfully migrated your funds to the new network",
+            "fundsMigrated": "Средставата са мигрирани",
+            "success": "Успешно мигрирахте средствата си в новата мрежа",
             "exportMigration": "Export migration log and finish setup"
         },
         "import": {
-            "title": "Recover or migrate funds",
+            "title": "Възстанови или мигрирай средства",
             "body": "If you have an existing seed or wallet back up file, you can import it here. If you hold older network funds, you will be taken through the migration steps to move to the Chrysalis network.",
             "importSeed": "Имам 81 символа seed",
             "importSeedDescription": "Моля въведете seed и мигрирайте към Chrysalis",
-            "importMnemonic": "I have a Firefly recovery phrase",
+            "importMnemonic": "Имам фраза за възстановяване от Firefly",
             "importMnemonicDescription": "Въведете фраза за възстановяване, за да възстановите своите портфейли",
             "importFile": "Имам бекъп файл",
             "importFileDescription": "Качване на Seedvault или Stronghold файл"
@@ -108,11 +108,11 @@
             },
             "mnemonic": {
                 "title": "Въведете фраза за възстановяване",
-                "body": "A recovery phrase is 24 words long, all lower case, with spaces between. This is used to recover existing Firefly wallets.",
+                "body": "Фразата за възстановяване е от 24 думи, всички с малки букви с разстояние между думите. Използва се за възстановяване на съществуващ Firefly портфейл.",
                 "enter": "Въведете фраза за възстановяване"
             },
             "seedDetected": "81 символа seed разпознат",
-            "phraseDetected": "24 word recovery phrase detected",
+            "phraseDetected": "възстановяваща фраза от 24 думи е разпозната",
             "checksum": "Checksum"
         },
         "importFromFile": {
@@ -171,20 +171,20 @@
             "error": "You can’t migrate spent addresses with less than 1 Mi"
         },
         "securityCheckCompleted": {
-            "title": "Security check completed",
+            "title": "Проверка на сигурността завършена",
             "body1": "We have calculated the security risk level. Running this process again may lower your risk level.",
-            "body2": "When you are happy with the risk level(s) press continue.",
+            "body2": "Когато сте удовлетворени от нивото на риск, натиснете Продължи.",
             "rerun": "Rerun process for selected addresses",
             "continueMigration": "Продължи миграцията"
         },
         "securingSpentAddresses": {
             "title": "Securing spent addresses...",
-            "body1": "This process will take {minutes, plural, one {1 minute} other {# minutes}}.",
+            "body1": "Този процес ще отнеме {minutes, plural, one {1 минута} other {# минути}}.",
             "body2": "Your computer will run at full capacity, you may wish to do something else while you wait for this to complete."
         },
         "transferFragmentedFunds": {
-            "body1": "Firefly will now proceed to migrate your funds. This may take a while.",
-            "migrate": "Migrate funds",
+            "body1": "Firefly ще мигрира вашите средства. Може да отнеме време.",
+            "migrate": "Мигриране на средствата",
             "transaction": "Трансакция {number}",
             "rerun": "Опитайте отново"
         },
@@ -202,11 +202,11 @@
             "settings": "Настройки",
             "generalSettings": {
                 "title": "Общи настройки",
-                "description": "Configure your app's appearance and other general settings"
+                "description": "Настройка на облика на приложението и други общи настройки"
             },
             "security": {
                 "title": "Сигурност",
-                "description": "Change your password and adjust security-related settings"
+                "description": "Промяна на паролата и промяна на настройки за сигурността"
             },
             "advancedSettings": {
                 "title": "Разширени настройки",
@@ -242,7 +242,7 @@
             },
             "exportStronghold": {
                 "title": "Създаване резервно копие",
-                "description": "Export to a Stronghold file - a complete encrypted backup of your wallets and latest transaction history."
+                "description": "Експортиране в Stronghold файл - пълно криптирано резервно копие на портфейла и история на последните трансакции."
             },
             "appLock": {
                 "title": "Автоматично заключване",
@@ -268,7 +268,7 @@
             },
             "hiddenAccounts": {
                 "title": "Скрити портфейли",
-                "description": "Selecting this options will show wallets that were previously hidden."
+                "description": "Изборът на тази опция ще покаже портфейли, които са били скрити."
             },
             "deleteProfile": {
                 "title": "Изтриване на профила",
@@ -280,7 +280,7 @@
             },
             "developerMode": {
                 "title": "Режим на разработчик",
-                "description": "Connect to testnets and other developer features"
+                "description": "Свързване с тестови мрежи testnets и други настройки за програмиста"
             },
             "nodeSettings": {
                 "title": "Node settings",
@@ -303,53 +303,53 @@
                 "description": "Complete proof of work locally on your device or outsource to the node"
             },
             "errorLog": {
-                "title": "Error log",
-                "description": "View errors to debug an issue"
+                "title": "Регистър на грешки",
+                "description": "Вижте регистъра на грешки, за да диагностицирате проблем"
             },
             "diagnostics": {
-                "title": "Diagnostics",
-                "description": "View system and application information"
+                "title": "Диагностика",
+                "description": "Виж системна и за приложението информация"
             },
             "stateExport": {
                 "title": "State export",
-                "description": "Export your transaction history to a .csv file"
+                "description": "Експортиране на история на трансакциите в .csv файл"
             },
             "troubleshoot": {
-                "title": "Troubleshoot",
+                "title": "Отстраняване на проблеми",
                 "description": "Use the troubleshooting wizard to solve common problems"
             },
             "documentation": {
-                "title": "Documentation",
+                "title": "Документация",
                 "description": "View the documentation for in depth explanations of how things work"
             },
             "faq": {
-                "title": "FAQ",
-                "title2": "Frequently Asked Questions",
+                "title": "ЧЗВ",
+                "title2": "Често задавани въпроси",
                 "description": "View the FAQs to get help with a common problem or question"
             },
             "discord": {
                 "title": "Discord",
-                "description": "Get help from the IOTA community on Discord"
+                "description": "Получи помощ от IOTA общността в Discord"
             },
             "about": {
-                "title": "About",
+                "title": "За приложението",
                 "description": ""
             },
             "reportAnIssue": {
-                "title": "Report an issue",
+                "title": "Докладвайте проблем",
                 "description": "Report a bug to the developers. Check through to make sure it hasn't already been reported."
             }
         },
         "login": {
-            "pleaseWait": "Please wait {time, plural, one {1 second} other {# seconds}}",
-            "incorrectAttempts": "{attempts, plural, one {1 incorrect attempt} other {# incorrect attempts}}"
+            "pleaseWait": "Моля изчакайте {time, plural, one {1 секунда} other {# секунди}}",
+            "incorrectAttempts": "{attempts, plural, one {1 неуспешен опит} other {# неуспешни опита}}"
         },
         "dashboard": {
             "security": {
                 "version": {
                     "title": "Firefly v{version}",
                     "upToDate": "Up to date",
-                    "outOfDate": "Out of date"
+                    "outOfDate": "Неактуална версия"
                 },
                 "hardwareDevice": {
                     "title": "Hardware Device",
@@ -390,7 +390,7 @@
         },
         "version": {
             "title": "Настояща версия: {version}",
-            "upToDateTitle": "Firefly is up to date",
+            "upToDateTitle": "Firefly е актуална версия",
             "upToDateDescription": "Използвате последната и най-сигурната версия на Firefly.",
             "updateAvailable": "Наличен е ъпдейт за Firefly",
             "updateDetails": "Версия {version} - {date}",
@@ -439,34 +439,34 @@
             "removeConfirmation": "Are you sure you want to remove this node?"
         },
         "errorLog": {
-            "title": "Error Log",
-            "empty": "The error log is empty."
+            "title": "Регистър на грешки",
+            "empty": "Регистърът с грешки е празен."
         },
         "deleteProfile": {
             "title": "Изтриване на профила",
             "confirmation": "Are you sure you want to delete this profile? This operation cannot be undone.",
-            "typePassword": "Type your password to confirm."
+            "typePassword": "Въведете своята парола за потвърждение."
         },
         "diagnostics": {
-            "title": "Diagnostics",
+            "title": "Диагностика",
             "node": "Node",
-            "platform": "Platform",
-            "platformVersion": "Platform Version",
+            "platform": "Платформа",
+            "platformVersion": "Версия на платформата",
             "platformArchitecture": "Platform Architecture",
-            "cpuCount": "CPU Count",
-            "totalMem": "Total Memory",
-            "freeMem": "Free Memory",
+            "cpuCount": "Процесорни ядра",
+            "totalMem": "Общо памет",
+            "freeMem": "Свободна памет",
             "userPath": "User Path"
         },
         "transaction": {
-            "title": "Confirm transaction",
-            "body": "You’re about to send {amount} to"
+            "title": "Потвърдете Транзакция",
+            "body": "Ще изпратите {amount} към"
         },
         "balanceFinder": {
             "title": "Balance finder",
             "body": "Започни пълно търсене на адреси, за да откриете липсващи средства. Може да отнеме време.",
             "totalWalletBalance": "Общо салдо",
-            "typePassword": "Type your password to allow searching."
+            "typePassword": "Въведете парола, за да разрешите търсене."
         },
         "riskFunds": {
             "title": "Warning: funds at risk during migration",
@@ -506,11 +506,11 @@
         "dismiss": "Пропусни",
         "proceedAnyway": "Продължи въпреки това",
         "save": "Запис",
-        "importSeed": "Import an existing seed",
-        "restoreWallet": "Migrate or restore a wallet",
-        "restoreWalletDescription": "Migrate to Chrysalis or restore an existing wallet",
+        "importSeed": "Импортиране на съществуващ seed",
+        "restoreWallet": "Миграция или възстановяване на портфейл",
+        "restoreWalletDescription": "Миграция към Chrysalis или възстановяване от съществуващ портфейл",
         "createWallet": "Създаване на нов портфейл",
-        "createWalletDescription": "Create a fresh wallet running on Chrysalis",
+        "createWalletDescription": "Създаване на нов портфейл в мрежата Chrysalis",
         "savePassword": "Запазване на паролата",
         "useBiometric": "Използване на биометрична сигурност",
         "setupPin": "Задаване на ПИН код",
@@ -527,142 +527,142 @@
         "send": "Изпрати",
         "receive": "Получи",
         "create": "Създаване",
-        "beginTransfer": "Begin Transfer",
+        "beginTransfer": "Започни трансфер",
         "tryAgain": "Опитайте отново",
         "visitDiscord": "Посети Discord",
-        "dragDrop": "Drag & Drop",
-        "importExtentions": ".kdbx or .stronghold file",
-        "chooseFile": "Choose a File",
-        "dropHere": "Drop your file here",
-        "syncAll": "Sync all",
-        "export": "Export",
-        "exportNewStronghold": "Export a new Stronghold",
+        "dragDrop": "Плъзгане и пускане",
+        "importExtentions": ".kdbx или .stronghold файл",
+        "chooseFile": "Изберете файл",
+        "dropHere": "Пуснете файла тук",
+        "syncAll": "Синхронизиране на всички",
+        "export": "Експорт",
+        "exportNewStronghold": "Експортиране на нов Stronghold",
         "enableDeepLinks": "Enable deep links",
-        "enableDeveloperMode": "Enable developer mode",
-        "enableSystemNotifications": "Enable system notifications",
+        "enableDeveloperMode": "Включване на режима за разработчици",
+        "enableSystemNotifications": "Разрешаване на системни известия",
         "exportState": "Export state",
         "localProofOfWork": "Local proof of work",
-        "unlock": "Unlock",
-        "updateFirefly": "Update Firefly",
-        "restartNow": "Restart now",
-        "saveBackup": "Save Stronghold backup",
+        "unlock": "Отключи",
+        "updateFirefly": "Обнови Firefly",
+        "restartNow": "Рестартирай сега",
+        "saveBackup": "Запази резервно копие в Stronghold",
         "customizeAcount": "Customise wallet",
         "viewAddressHistory": "View address history",
         "hideAccount": "Скрий портфейл",
         "showAccount": "Unhide wallet",
         "deleteAccount": "Изтриване на портфейл",
-        "max": "Max",
+        "max": "Макс",
         "addNode": "Add node",
         "updateNode": "Update node",
         "removeNode": "Remove node",
-        "hide": "Hide",
-        "hideOthers": "Hide Others",
-        "showAll": "Show All",
-        "quit": "Quit",
-        "edit": "Edit",
-        "undo": "Undo",
-        "redo": "Redo",
-        "cut": "Cut",
-        "copy": "Copy",
-        "paste": "Paste",
-        "selectAll": "Select All",
-        "addAccount": "Add Wallet",
-        "checkForUpdates": "Check for Updates",
-        "reportAnIssue": "Report an Issue",
-        "clear": "Clear",
-        "hideDetails": "Hide Details",
-        "yes": "Yes",
-        "no": "No",
-        "skip": "Skip",
-        "reset": "Reset",
-        "downloadRecoveryKit": "Save Recovery Kit template",
-        "skipBackup": "Skip file backup",
-        "finishSetup": "Finish setup",
-        "readDocumentation": "Read the documentation",
+        "hide": "Скриване",
+        "hideOthers": "Скриване на другите",
+        "showAll": "Показване на всички",
+        "quit": "Изход",
+        "edit": "Редактиране",
+        "undo": "Отмяна",
+        "redo": "Повторение",
+        "cut": "Изрежи",
+        "copy": "Копиране",
+        "paste": "Поставяне",
+        "selectAll": "Избор на всичко",
+        "addAccount": "Добави портфейл",
+        "checkForUpdates": "Проверка за обновления",
+        "reportAnIssue": "Подайте сигнал за проблем",
+        "clear": "Изчистване",
+        "hideDetails": "Скрий Детайлите",
+        "yes": "Да",
+        "no": "Не",
+        "skip": "Пропусни",
+        "reset": "Нулиране",
+        "downloadRecoveryKit": "Запази шаблон за Recovery Kit",
+        "skipBackup": "Пропусни резервно копие",
+        "finishSetup": "Завършване настройки",
+        "readDocumentation": "Прочети документацията",
         "visitFaq": "Visit FAQ",
         "viewStatus": "View status",
-        "showHiddenAccounts": "Show hidden wallets",
-        "confirm": "Confirm",
+        "showHiddenAccounts": "Покажи скрити портфейли",
+        "confirm": "Потвърждаване",
         "findBalances": "Find balances",
         "searchBalances": "Search for balances",
-        "searchAgain": "Search again",
-        "searching": "Searching...",
-        "closeFirefly": "Close Firefly"
+        "searchAgain": "Повторно търсене",
+        "searching": "Търсене...",
+        "closeFirefly": "Затвори Firefly"
     },
     "general": {
-        "password": "Password",
-        "confirmPassword": "Confirm password",
-        "currentPassword": "Current password",
-        "newPassword": "New password",
-        "confirmNewPassword": "Confirm new password",
+        "password": "Парола",
+        "confirmPassword": "Потвърди паролата",
+        "currentPassword": "Текуща парола",
+        "newPassword": "Нова парола",
+        "confirmNewPassword": "Потвърдете новата парола",
         "yourSeed": "Your Seed",
-        "recoveryPhrase": "Recovery Phrase",
-        "recentActivity": "Recent Activity",
-        "sent": "Sent",
-        "received": "Received",
+        "recoveryPhrase": "Фраза за възстановяване",
+        "recentActivity": "Последна активност",
+        "sent": "Изпратен",
+        "received": "Получен",
         "sendPayment": "Send Payment",
         "moveFunds": "Internal Transfer",
         "sendFunds": "Send funds",
-        "sendToAddress": "Send to address",
+        "sendToAddress": "Изпращане към адрес",
         "scanQrOrPaste": "Scan a QR code or paste an Address",
         "moveFundsBetweenAccounts": "Move funds between wallets",
         "sendTokensToAddress": "Send tokens to an address",
         "manageAccount": "Manage Wallet",
         "customizeAcount": "Customize your wallet",
-        "account": "Wallet",
-        "sendingToAddress": "Sending to address",
-        "amount": "Amount",
-        "addAddress": "Add Address",
-        "reference": "Reference",
-        "from": "From",
-        "to": "To",
-        "receiveFunds": "Receive Funds",
-        "myAddress": "My Address",
-        "shareAddress": "Share an address",
-        "yourAddress": "Your address",
-        "generateNewAddress": "Generate new address",
-        "copyAddress": "Copy Address",
-        "import": "Import",
+        "account": "Портфейл",
+        "sendingToAddress": "Изпращане към адрес",
+        "amount": "Сума",
+        "addAddress": "Добави адрес",
+        "reference": "Референция",
+        "from": "От",
+        "to": "До",
+        "receiveFunds": "Получаване на пари",
+        "myAddress": "Моят адрес",
+        "shareAddress": "Сподели адрес",
+        "yourAddress": "Вашият адрес",
+        "generateNewAddress": "Генериране на нов адрес",
+        "copyAddress": "Копиране на адрес",
+        "import": "Импорт",
         "seedvault": "SeedVault",
         "stronghold": "Stronghold",
-        "language": "Language",
-        "appearance": "Appearance",
-        "lightTheme": "Light theme",
-        "darkTheme": "Dark theme",
-        "balance": "Balance",
-        "accountBalance": "Wallet Balance",
-        "incoming": "Incoming",
-        "outgoing": "Outgoing",
+        "language": "Език",
+        "appearance": "Изглед",
+        "lightTheme": "Светла тема",
+        "darkTheme": "Тъмна тема",
+        "balance": "Баланс/сума",
+        "accountBalance": "Наличност в портфейла",
+        "incoming": "Входящи",
+        "outgoing": "Изходящи",
         "totalIn": "Total in",
         "totalOut": "Total out",
-        "accounts": "Wallets",
-        "myAccounts": "My Wallets",
+        "accounts": "Портфейли",
+        "myAccounts": "Моите Портфейли",
         "automaticNodeSelection": "Automatic node selection",
         "manualNodeSelection": "Manual node selection",
-        "profiles": "Profiles",
+        "profiles": "Профили",
         "developerProfile": "Developer Profile",
         "developerProfileDescription": "Allows you to connect to testnets",
         "dev": "Dev",
         "createAccount": "Create a Wallet",
         "accountName": "Wallet name",
         "latestTransactions": "Latest Transactions",
-        "transactions": "Transactions",
+        "transactions": "Транзакции",
         "security": "Сигурност",
         "accountAddress": "Wallet Address",
         "nodes": "Nodes",
         "wallet": "Wallet",
-        "help": "Help",
+        "help": "Помощ",
         "you": "You",
         "messageId": "Message ID",
-        "inputAddress": "Send Address",
-        "receiveAddress": "Receive Address",
-        "date": "Date",
+        "inputAddress": "Адрес изпращане",
+        "receiveAddress": "Адрес за получаване",
+        "date": "Дата",
         "status": "Статус",
-        "confirmed": "Confirmed",
+        "confirmed": "Потвърден",
         "pending": "Pending",
         "noAccounts": "You have no wallets, please create one.",
         "loadingAccounts": "Loading, please wait...",
-        "addProfile": "Add Profile",
+        "addProfile": "Добавяне на профил",
         "noRecentHistory": "No recent history",
         "firstSync": "Syncing history, this may take a while...",
         "transferSyncing": "Syncing wallet",
@@ -670,44 +670,44 @@
         "transferRemainderAddress": "Generating remainder deposit address",
         "transferSigning": "Signing the transaction",
         "transferPow": "Performing PoW",
-        "transferBroadcasting": "Broadcasting transaction",
-        "transferComplete": "Transfer complete",
-        "creatingAccount": "Creating wallet, please wait...",
-        "updatingAccount": "Updating wallet, please wait...",
-        "accountSyncing": "Wallet is syncing",
-        "accountSyncComplete": "Wallet sync complete",
-        "passwordUpdating": "Updating password...",
-        "passwordSuccess": "Updated password successfully",
-        "passwordFailed": "Updating password failed",
-        "syncingAccounts": "Syncing wallets...",
-        "exportingStronghold": "Exporting Stronghold...",
-        "exportingStrongholdSuccess": "Exported Stronghold successfully",
-        "exportingStrongholdFailed": "Exporting Stronghold failed",
-        "pinCodeUpdating": "Updating PIN code...",
-        "pinCodeSuccess": "Updated PIN code successfully",
-        "pinCodeFailed": "Updating PIN code failed",
-        "passwordStrength": "Password strength",
-        "passwordStrength0": "Bad",
-        "passwordStrength1": "Poor",
-        "passwordStrength2": "Weak",
-        "passwordStrength3": "Average",
-        "passwordStrength4": "Strong",
-        "creatingProfile": "Creating profile, please wait...",
-        "fundMigration": "Fund migration",
+        "transferBroadcasting": "Излъчване на транзакция",
+        "transferComplete": "Прехвърлянето е завършено",
+        "creatingAccount": "Създаване на портфейл, моля изчакайте...",
+        "updatingAccount": "Актуализиране на портфейла, моля изчакайте...",
+        "accountSyncing": "Портфейлът се синхронизира",
+        "accountSyncComplete": "Синхронизация на портфейла завършена",
+        "passwordUpdating": "Обновяване на паролата...",
+        "passwordSuccess": "Обновяване на паролата успешно",
+        "passwordFailed": "Неуспешно обновяване на паролата",
+        "syncingAccounts": "Синхронизация портфейли...",
+        "exportingStronghold": "Експортиране Stronghold...",
+        "exportingStrongholdSuccess": "Експортиране Stronghold успешно",
+        "exportingStrongholdFailed": "Експортиране Stronghold неуспешно",
+        "pinCodeUpdating": "Обновяване на ПИК кода...",
+        "pinCodeSuccess": "Обновяване на ПИН кода успешно",
+        "pinCodeFailed": "Обновяване на ПИН кода неуспешно",
+        "passwordStrength": "Сигурност на паролата",
+        "passwordStrength0": "Лошо",
+        "passwordStrength1": "Слабо",
+        "passwordStrength2": "Слабо",
+        "passwordStrength3": "Средно",
+        "passwordStrength4": "Силен",
+        "creatingProfile": "Създаване на профил, моля изчакайте...",
+        "fundMigration": "Миграция на средства",
         "accountRemoved": "This wallet is hidden. Unhide it to perform transfers.",
         "receivingTo": "Receiving to {account}",
         "sendingFrom": "Sending from {account}",
         "receivedTo": "Received to {account}",
         "sentFrom": "Sent from {account}",
-        "receiving": "Receiving",
-        "sending": "Sending",
+        "receiving": "Получаване",
+        "sending": "Изпращане",
         "legacyNetwork": "Legacy Network"
     },
     "dates": {
-        "today": "Today",
-        "yesterday": "Yesterday",
-        "daysAgo": "{time, plural, one {# day} other {# days}} ago",
-        "weeksAgo": "{time, plural, one {# week} other {# weeks}} ago",
+        "today": "Днес",
+        "yesterday": "Вчера",
+        "daysAgo": "преди {time, plural, one {# ден} other {# дни}}",
+        "weeksAgo": "преди {time, plural, one {# седмица} other {# седмици}}",
         "monthsAgo": "{time, plural, one {# month} other {# months}} ago",
         "yearsAgo": "{time, plural, one {# year} other {# years}} ago"
     },
@@ -734,8 +734,8 @@
             "duplicate": "A profile with this name already exists."
         },
         "password": {
-            "doNotMatch": "Passwords do not match.",
-            "tooWeak": "Your new password is too weak.",
+            "doNotMatch": "Паролите не съвпадат.",
+            "tooWeak": "Новата парола е твърде слаба.",
             "row": "Straight rows of keys are easy to guess.",
             "pattern": "Short keyboard patterns are easy to guess.",
             "names": "Common names and surnames are easy to guess.",
@@ -747,13 +747,13 @@
             "common": "This is a very common password.",
             "similar": "This is similar to a common password.",
             "word": "A single word is easy to guess.",
-            "incorrect": "Your password is incorrect.",
+            "incorrect": "Грешна парола.",
             "length": "Your password can't be longer than {length, plural, one {1 character} other {# characters}}."
         },
         "pincode": {
             "length": "Your PIN must be {length, plural, one {1 digit} other {# digits}} long.",
-            "match": "PINs do not match.",
-            "incorrect": "Your current PIN is incorrect."
+            "match": "ПИН кодовете не съвпадат.",
+            "incorrect": "Текущият ПИН е неправилен."
         },
         "account": {
             "length": "Your wallet name can't be longer than {length, plural, one {1 character} other {# characters}}.",
@@ -802,12 +802,12 @@
     },
     "tooltips": {
         "risk": {
-            "title": "Risk level: {risk}",
-            "veryHigh": "Very high",
-            "high": "High",
-            "medium": "Medium",
-            "low": "Low",
-            "veryLow": "Very low"
+            "title": "Ниво на риска: {risk}",
+            "veryHigh": "Много висок",
+            "high": "Висок",
+            "medium": "Среден",
+            "low": "Нисък",
+            "veryLow": "Много нисък"
         }
     }
 }

@@ -147,7 +147,7 @@
             "restoringWallet": "Obnovuji peněženku...",
             "findingBalance": "Hledání zůstatku...",
             "incorrectSeedVaultPassword": "Nesprávné heslo k SeedVaultu.",
-            "noDataSeedVault": "No data could be found in the SeedVault.",
+            "noDataSeedVault": "V SeedVaultu nebyla nalezena žádná data.",
             "signingBundle": "Podepisování balíčku",
             "broadcastingBundle": "Posílání balíčku",
             "miningBundle": "Těžení balíčku",
@@ -247,8 +247,8 @@
             "appLock": {
                 "title": "Automatický zámek",
                 "description": "Čas nečinnosti před uzamknutím peněženek a odhlášeni",
-                "durationMinute": "{time, plural, one {1 minute} other {# minutes}}",
-                "durationHour": "{time, plural, one {1 hour} other {# hours}}"
+                "durationMinute": "{time, plural, one {1 minuta} other {# minut}}",
+                "durationHour": "{time, plural, one {# hodina} other {# hodin}}"
             },
             "changePassword": {
                 "title": "Změna hesla",
@@ -701,7 +701,7 @@
         "sentFrom": "Odesláno z {account}",
         "receiving": "Přijímání",
         "sending": "Odesílání",
-        "legacyNetwork": "Legacy Network"
+        "legacyNetwork": "Zastaralá síť"
     },
     "dates": {
         "today": "Dnes",

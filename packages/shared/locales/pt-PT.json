@@ -1,101 +1,101 @@
 {
     "views": {
         "onboarding1": {
-            "title": "Send, Receive & Manage your IOTA tokens",
-            "body": "Firefly is the official wallet software of IOTA."
+            "title": "Envie, Receba e Gira as suas IOTAs",
+            "body": "Firefly é a carteira oficial da IOTA."
         },
         "legal": {
-            "title": "Privacy Policy & Terms of Service",
+            "title": "Política de Privacidade e Termos de Serviço",
             "body": "Por favor, reveja a Política de Privacidade e os Termos do Serviço.",
-            "checkbox": "I've read and I accept the Privacy Policy & Terms of Service"
+            "checkbox": "Eu li e aceito a Política de Privacidade e Termos de Serviço"
         },
         "appearance": {
-            "title": "Appearance",
-            "body": "Choose your app theme."
+            "title": "Aparência",
+            "body": "Escolha o tema da sua aplicação."
         },
         "profile": {
-            "title": "Create a profile",
-            "body1": "You can create multiple user profiles to organise your wallets and improve privacy.",
-            "body2": "For now, let's start with your first profile name. You can add more profiles later.",
-            "profileName": "Profile Name"
+            "title": "Criar um perfil",
+            "body1": "Poderá criar vários perfis de utilizadores para manter a sua carteira organizada e melhorar a privacidade.",
+            "body2": "Por agora, vamos começar com o nome do seu primeiro perfil. Pode adicionar mais perfis mais tarde.",
+            "profileName": "Nome do Perfil"
         },
         "setup": {
-            "title": "Set up a wallet",
-            "chrysalisTitle": "Chrysalis Network Update",
-            "chrysalisBody": "From April 21st, users can migrate their tokens to the new Chrysalis network. We recommend you migrate your existing tokens as soon as possible.",
-            "learnMore": "Learn about the migration"
+            "title": "Configurar uma carteira",
+            "chrysalisTitle": "Atualização da Rede Chrysalis",
+            "chrysalisBody": "A partir de 21 de abril, os utilizadores poderão migrar os seus tokens para a nova rede Chrysalis. Recomendamos que migre os tokens existentes o mais rápido possível.",
+            "learnMore": "Saiba mais sobre a migração"
         },
         "secure": {
-            "title": "Secure your wallet",
-            "body1": "Save and print the Recovery Kit PDF template.",
-            "body2": "If you fill out the Recovery Kit and store it safely, you will always be able to recover your wallets."
+            "title": "Proteja a sua carteira",
+            "body1": "Guardar e imprimir o modelo PDF do Kit de Restauração.",
+            "body2": "Se preencher o Kit de Recuperação e armazená-lo de forma segura, sempre poderá recuperar as suas carteiras."
         },
         "password": {
             "title": "Criar uma palavra-passe",
-            "body1": "You need a strong password to protect your funds. Use a combination of words, and avoid common phrases, names or dates.",
-            "body2": "It is recommended that you write down your password in your Recovery Kit."
+            "body1": "Precisa de uma palavra-passe forte para proteger os seus fundos. Use uma combinação de palavras, e evite frases comuns, nomes ou datas.",
+            "body2": "É recomendável que anote a sua palavra-passe no Kit de Recuperação."
         },
         "protect": {
             "title": "Protect your wallet",
-            "body1": "Set up a login PIN to make sure that only you can enter your profile.",
-            "body2": "Keep your PIN safe!"
+            "body1": "Configure um PIN de acesso para garantir que só você poderá entrar no seu perfil.",
+            "body2": "Mantenha o seu PIN seguro!"
         },
         "pin": {
             "title": "Configurar o código PIN",
-            "body1": "Enter a 6-digit PIN below. You will be asked for your PIN to access your profile.",
-            "body2": "Use numbers only"
+            "body1": "Digite um PIN de 6 dígitos abaixo. O PIN será solicitado ao acessar o seu perfil.",
+            "body2": "Usar apenas números"
         },
         "confirmPin": {
             "title": "Verifique o seu código PIN",
-            "body1": "Your PIN keeps your balance and transactions private.",
-            "body2": "Re-enter your PIN code to proceed. "
+            "body1": "O seu PIN mantém o seu saldo e as transações privadas.",
+            "body2": "Digite novamente o seu código PIN para continuar. "
         },
         "backup": {
             "title": "Salvaguarde a sua carteira",
-            "body1": "You will now be shown a recovery phrase. Write it down in your Recovery Kit.",
-            "body2": "Do not share your recovery phrase with anyone. It can be used to access your tokens from anywhere.",
+            "body1": "Agora verá uma frase de recuperação. Anote-a no seu Kit de Recuperação.",
+            "body2": "Não partilhe a sua frase de recuperação com ninguém. Ela pode ser usada para acessar aos seus fundos em qualquer lugar.",
             "body3": "Se perder a frase de recuperação, poderá perder os seus fundos."
         },
         "recoveryPhrase": {
             "title": "Frase de recuperação",
-            "body1": "In your Recovery Kit, write down the words in the exact order shown.",
-            "body2": "Keep this private and safely stored.",
-            "body3": "It is important to have a written backup. Computers often fail and files can corrupt.",
+            "body1": "No seu Kit de Recuperação, anote as palavras na ordem exata.",
+            "body2": "Mantenha isto privado e armazenado com segurança.",
+            "body3": "É importante ter um backup escrito. Computadores geralmente falham e os arquivos podem ser corrompidos.",
             "revealRecoveryPhrase": "Revelar a frase de recuperação",
             "hideRecoveryPhrase": "Esconder a frase de recuperação"
         },
         "verifyRecoveryPhrase": {
             "title": "Verifique a frase de recuperação",
-            "body": "Let's check you wrote down the phrase correctly. Please select each word in numbered order.",
-            "word": "Word",
-            "verified": "Recovery phrase verified",
-            "verifiedBody": "Remember to keep it private and safely stored."
+            "body": "Vamos verificar se você escreveu a frase corretamente. Por favor, selecione cada palavra na ordem numerada.",
+            "word": "Palavra",
+            "verified": "Frase de recuperação verificada",
+            "verifiedBody": "Lembre-se de mantê-la privada e armazenada com segurança."
         },
         "backupWallet": {
             "title": "Salvaguarde o ficheiro Stronghold",
-            "body1": "Enter your password to backup your wallets to a Stronghold file. Your password is used to encrypt the backup.",
-            "body2": "Reasons why digital backups are important:",
-            "reason1": "Easily recover your wallets without typing in your recovery phrase",
-            "reason2": "Import your wallets on other devices",
-            "reason3": "Recover your full transaction history"
+            "body1": "Introduza a sua senha para fazer backup da sua carteira para um arquivo Stronghold. A sua senha é usada para encriptar o backup.",
+            "body2": "Motivos dos quais backups digitais são importantes:",
+            "reason1": "Recupere facilmente as suas carteiras sem introduzir a sua frase de recuperação",
+            "reason2": "Importe as suas carteiras para outros dispositivos",
+            "reason3": "Recuperar histórico completo de transações"
         },
         "recoveryPhraseSaved": {
             "title": "Salvaguarda realizada com sucesso",
-            "body": "You have backed up your wallets to a Stronghold."
+            "body": "Fez o backup da sua carteira para um arquivo Stronghold."
         },
         "congratulations": {
-            "title": "Wallet setup completed",
-            "body": "Your new wallet is ready to use.",
-            "fundsMigrated": "Funds migrated",
-            "success": "You have successfully migrated your funds to the new network",
-            "exportMigration": "Export migration log and finish setup"
+            "title": "Configuração da carteira concluída",
+            "body": "A sua nova carteira está pronta para ser usada.",
+            "fundsMigrated": "Fundos migrados",
+            "success": "Migrou os seus fundos com sucesso para a nova rede",
+            "exportMigration": "Exportar log de migração e concluir a configuração"
         },
         "import": {
-            "title": "Recover or migrate funds",
-            "body": "If you have an existing seed or wallet back up file, you can import it here. If you hold older network funds, you will be taken through the migration steps to move to the Chrysalis network.",
-            "importSeed": "I have an 81 character seed",
-            "importSeedDescription": "Enter a seed and migrate funds to Chrysalis",
-            "importMnemonic": "I have a Firefly recovery phrase",
+            "title": "Recuperar ou migrar fundos",
+            "body": "Se você uma seed ou o arquivo de backup da sua carteira, pode importá-lo aqui. Se mantém fundos antigos da rede, será direcionado para as etapas de migração para transferência para à rede Chrysalis.",
+            "importSeed": "Tenho uma seed de 81 caracteres",
+            "importSeedDescription": "Insira uma seed e migre os fundos para a Chrysalis",
+            "importMnemonic": "Eu tenho uma frase de recuperação Firefly",
             "importMnemonicDescription": "Enter your recovery phrase to recover your wallets",
             "importFile": "I have a file backup",
             "importFileDescription": "Upload a Seedvault or Stronghold file"
@@ -138,7 +138,7 @@
             "body2": "It may take some time. Do not turn off your device during the migration.",
             "existing": "Your old wallet",
             "new": "Your new wallet",
-            "learn": "Learn about the migration",
+            "learn": "Saiba mais sobre a migração",
             "beginMigration": "Begin Migration",
             "migrating": "Migrating funds...",
             "migrated": "{balance} migrated",
